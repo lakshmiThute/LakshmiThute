@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Thute</h1>
-<h3 align="center">Data Analyst Enthusiast</h3>
+<h3 align="center">Data Science Enthusiast</h3>
 
 <img align="right" alt="Machine Learning" width="400" src="https://media.giphy.com/media/Z5VQh0fqT54xG/giphy.gif">
 
