@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **laxmirthute@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/91749/Documents/Lakshmi-Resume.pdf](file:///C:/Users/91749/Documents/Lakshmi-Resume.pdf)
-
 - ⚡ Fun fact **I love doing crazy things.**
 
 <h3 align="left">Connect with me:</h3>
